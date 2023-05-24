@@ -1,0 +1,11 @@
+C:\Users\mnami\source\repos\kp1\kp1\bin\Debug\kp1.exe.config
+C:\Users\mnami\source\repos\kp1\kp1\bin\Debug\kp1.exe
+C:\Users\mnami\source\repos\kp1\kp1\bin\Debug\kp1.pdb
+C:\Users\mnami\source\repos\kp1\kp1\obj\Debug\kp1.csproj.AssemblyReference.cache
+C:\Users\mnami\source\repos\kp1\kp1\obj\Debug\kp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mnami\source\repos\kp1\kp1\obj\Debug\kp1.Form1.resources
+C:\Users\mnami\source\repos\kp1\kp1\obj\Debug\kp1.Properties.Resources.resources
+C:\Users\mnami\source\repos\kp1\kp1\obj\Debug\kp1.csproj.GenerateResource.cache
+C:\Users\mnami\source\repos\kp1\kp1\obj\Debug\kp1.csproj.CoreCompileInputs.cache
+C:\Users\mnami\source\repos\kp1\kp1\obj\Debug\kp1.exe
+C:\Users\mnami\source\repos\kp1\kp1\obj\Debug\kp1.pdb
